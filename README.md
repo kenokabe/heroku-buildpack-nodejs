@@ -16,7 +16,7 @@ package_download "nodejs" "0.6.15" $bootstrap_node
  
 engine_defaults["node"]="0.6.15"
 
-engine_defaults["npm"]="1.1.16"
+engine_defaults["npm"]="1.1.1"
 
 --------
 
