@@ -1,6 +1,6 @@
 
 Written by
-http://http://blog.garthdb.com/using-the-latest-stable-version-v0-6-10-of-nodejs-on-heroku/
+http://blog.garthdb.com/using-the-latest-stable-version-v0-6-10-of-nodejs-on-heroku/
 Using the Latest Stable Version (v0.6.10) of NodeJS on Heroku
 By GARTHDB | Published: 21 FEB 2012
 Update: you can also use nodejs-versions in the labs plugin.
